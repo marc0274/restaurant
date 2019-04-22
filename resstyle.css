@@ -1,0 +1,61 @@
+body{
+    background-color: white;
+    width: 100%;
+}
+
+.instaenter{
+    background-image: url("images/insta.png");
+    background-position: left;
+    background-position-x: 10px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    
+    
+}
+
+img{
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+
+.instaenter::placeholder{
+  text-align: center;
+}
+
+
+.instaenter{
+    width: 350px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+h1{
+    margin-left: auto;
+    margin: auto;
+    display: block;
+    width: 500px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+button{
+    color: white;
+    background-color: #FC235B;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 50px;
+    border-radius: 8px;
+    font-size: 16px;
+}
